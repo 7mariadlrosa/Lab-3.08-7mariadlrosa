@@ -1,5 +1,5 @@
-# Lab-3.08-7mariadlrosa
-## Specifications
+## Modeling Complex Relationships Lab(3.08)
+### Specifications
 
 1. Using the Spring JPA model the relationships of the below application: Assume that you are working with an Association of Nurses. They need to model the association and its members.
 - The Association has 7 Chapters. Each Chapter has a name, a district, a president (which is a Member), and a list of Members
